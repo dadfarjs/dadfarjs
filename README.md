@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently learning web programming and doing a project for a company
-- 🌱 I’m currently learning React, NextJs, NestJs, React-Native
+- 🌱 I’m currently learning React, NextJs, NestJs
 - 📫 How to reach me: 
   https://www.linkedin.com/in/mostafa-dadfar/
